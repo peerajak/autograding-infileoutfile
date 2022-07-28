@@ -1,4 +1,4 @@
-from multiline import main
+import main
 import io
 
 
