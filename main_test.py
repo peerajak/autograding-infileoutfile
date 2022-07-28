@@ -1,4 +1,4 @@
-import main
+from problem1 import main
 import io
 
 
