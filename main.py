@@ -1,8 +1,11 @@
 def main():
     inlist = input().split()
-    inlist.sort()
-    print(" ".join(inlist))
-    
+    inlist2 = input().split()
+    inlist_all = inlist + inlist2
+    inlist_all.sort()
+    print(" ".join(inlist_all))
 
-if __name__ == "__main__" :
+
+if __name__ == "__main__":
     main()
+
